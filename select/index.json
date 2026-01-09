@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Flash back",
+  "base_artist": "手越祐也",
+  "createdAt": "2026-01-09T20:50:42.801506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/01_Flash_Back_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Je me souviens (flash back)",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/02_Je_me_souviens_(flash_back)_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "Rustie",
+      "has_synced": false,
+      "path": "select/03_Flash_Back_Rustie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/04_Flash_Back_Chic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/05_Flash_Back_Chic.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FLASH BACK",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/06_FLASH_BACK_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/07_Flash_Back_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flash Back Memories",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/08_Flash_Back_Memories_杏里.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flash Back Memories",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/09_Flash_Back_Memories_Anri.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/10_Flash_Back_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flash Back [フラッシュバック]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/11_Flash_Back_[フラッシュバック]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flash Back (ver.D/D)",
+      "artist": "梅とら",
+      "has_synced": true,
+      "path": "select/12_Flash_Back_(ver.D_D)_梅とら.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flash Back Memories",
+      "artist": "杏里 (Anri)",
+      "has_synced": true,
+      "path": "select/13_Flash_Back_Memories_杏里_(Anri).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flash back",
+      "artist": "手越祐也",
+      "has_synced": false,
+      "path": "select/pl_01_Flash_back_手越祐也.txt"
+    }
+  ]
+}
