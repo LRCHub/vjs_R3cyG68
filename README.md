@@ -1,0 +1,66 @@
+# 手越祐也 – Flash back
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Flash back Flash back Right there
+何も持たずただ照り返す
+身体ひとつで勝負がバイブス
+怯まない度胸で
+小細工はいらねえ
+つま先まで気を尖らす
+生業のプライド
+誰も止められない 君以外
+Girl you can freak 僕といれば
+星も海もあげられる
+I don't my mind
+ねえついてくればわかる
+圧倒的努力と前傾マインド
+Flash back Flash back
+次の壁もRight there
+戦う場所 Not fair
+カルマぶっ壊し Crush up
+Flash back Flash back
+このフレームの中
+散らかす奴ごと
+抱きしめて壊す
+Flash back Flash back
+降り注げ記憶の豪雨
+現れ合えるまで走馬灯
+Ya かなりめんどくせえな
+逆は同値とは限らないぜ
+からの論点ずらし
+正面きって挑んでも意味ねえ
+Every time I got
+戦うたび 君の声を浴びたくなる
+Girl you can freak 僕といてよ
+一緒におかしくなろう
+I don't my mind
+ねえ見せてあげるよ 来て
+圧倒的攻撃で愛を示す
+Flash back Flash back
+次の壁もRight there
+戦う場所 Not fair
+カルマぶっ壊し Crush up
+Flash back Flash back
+このフレームの中
+散らかす奴ごと
+抱きしめて壊す
+Flash back Flash back
+降り注げ記憶の豪雨
+現れ合えるまで走馬灯
+憂に染まってた世界
+額装することはなかった
+君に会って
+守りたいもの守ると決めた
+次の壁もRight there
+戦う場所 Not fair
+カルマぶっ壊し Crush up
+Flash back Flash back
+このフレームの中
+散らかす奴ごと
+抱きしめて壊す
+Flash back Flash back
+夢を見るなら僕とどう?
+はみ出しも照り散らかす堂々
+```
